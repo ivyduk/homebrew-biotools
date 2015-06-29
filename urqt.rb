@@ -5,7 +5,7 @@ class Urqt < Formula
 
 
   def install
-    system "cd UrQt"	
+    #system "cd UrQt"	
     system "make"
     bin.install "UrQt"
     doc.install "README.md", "DOCUMENTATION"	
