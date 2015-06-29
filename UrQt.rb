@@ -9,5 +9,5 @@ class UrQt < Formula
     system "make"
     bin.install "UrQt"
     doc.install "README.md", "DOCUMENTATION"	
-    	
+  end  	
 end
