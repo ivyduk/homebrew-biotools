@@ -1,4 +1,4 @@
-class urqt < Formula
+class Urqt < Formula
   homepage "https://github.com/l-modolo/UrQt"
   head "https://github.com/l-modolo/UrQt.git", :using => :git
  
